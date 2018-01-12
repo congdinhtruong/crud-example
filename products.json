@@ -1,0 +1,21 @@
+[
+	{
+		"ProductID" : "1",
+		"ProductName" : "Extending Bootstrap with CSS, JavaScript and JQuery",
+		"IntroductionDate" : "6/11/1998",
+		"Url" : "https://www.w3schools.com/js/default.asp"
+	},
+	{
+		"ProductID" : "2",
+		"ProductName" : "Extending Bootstrap with CSS, JavaScript and JQuery",
+		"IntroductionDate" : "10/11/1998",
+		"Url" : "https://www.w3schools.com/js/default.asp"
+	},
+	{
+		"ProductID" : "3",
+		"ProductName" : "Extending Bootstrap with CSS, JavaScript and JQuery",
+		"IntroductionDate" : "20/11/1998",
+		"Url" : "https://www.w3schools.com/js/default.asp"
+	}
+	
+]
